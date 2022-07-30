@@ -2,6 +2,7 @@
 
 > A simple RAILS Api with one end point that returns a random greeting from a Postgres Database. It returns JSON. 
 
+> The front end is in this [repo](https://github.com/Beardless-sheik/hello-world-react-front-end)
 
 ## Built With
 
