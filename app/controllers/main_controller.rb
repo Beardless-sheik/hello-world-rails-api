@@ -3,5 +3,4 @@ class MainController < ApplicationController
     greetings = Message.all
     render json: { status: 'SUCCESS', message: 'Loaded greeting', data: greetings.sample }, status: :ok
   end
-
 end
